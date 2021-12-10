@@ -35110,7 +35110,7 @@ t2(){var s=0,r=A.a4(t.j),q,p=this,o,n,m,l
 var $async$t2=A.a_(function(a,b){if(a===1)return A.a1(b,r)
 while(true)switch(s){case 0:n=t.N
 s=3
-return A.ad(A.auX(A.pj("https://sandymoviles.siempredesastre.com.mx/tienda/conexion.php"),A.aB(["usermane",p.d.a.a,"password",p.e.a.a],n,n)),$async$t2)
+return A.ad(A.auX(A.pj("https://examsan.siempredesastre.com.mx/tienda/login.php"),A.aB(["usermane",p.d.a.a,"password",p.e.a.a],n,n)),$async$t2)
 case 3:m=b
 l=B.ao.HE(0,A.aub(A.ase(m.e).c.a.h(0,"charset")).cZ(0,m.x),null)
 n=J.ar(l)
